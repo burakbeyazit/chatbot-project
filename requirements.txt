@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+tokenizers
+accelerate
+scikit-learn
+pandas
+numpy
+gradio
+huggingface-hub
+tqdm
+requests
+streamlit
