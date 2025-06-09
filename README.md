@@ -12,7 +12,7 @@ Kendi kitap verisetinizi ve intent (niyet) tanımlarınızı kullanarak,
 ## Özellikler
 
 - Veri seti: https://www.kaggle.com/datasets/abdallahwagih/books-dataset  data.csv ve intents.json üzerinden çalışılmıştır
-- **İki farklı model:** GPT-3.5-Turbo ve HuggingFace (ör. Phi-3-mini-4k-instruct)
+- **İki farklı model:** GPT-3.5-Turbo ve Phi-3-mini-4k-instruct
 - **Kitap arama ve bilgi getirme:** Fuzzy search desteği ile
 - **Gradio tabanlı arayüz:** Web’den kolayca demo & değerlendirme
 - **Otomatik metrik değerlendirme:** Precision, recall, F1-score
@@ -44,7 +44,7 @@ Kitaplar ve açıklamaları data.csv dosyasında,
 
 Intent (niyet) türleri ve örnek cümleler ise intents.json dosyasında tutulmuştur.
 
-Model Entegrasyonu:
+#Model Entegrasyonu:
 
 GPT-3.5-Turbo: OpenAI API üzerinden,
 
@@ -70,5 +70,45 @@ F1: 0.76
 GPT-3.5-Turbo, niyet sınıflandırmada ve kitap önerilerinde daha tutarlı ve doğru sonuçlar vermiştir.
 
 Microsoft OS LLM (Phi-3 Mini) ise açık kaynaklı olmasının avantajıyla hızlıca entegre edilebilmiş, ancak bazı karmaşık intentlerde kararsız sonuçlar üretebilmiştir.
+
+## Prompt Örnekleri Ve Ekran Görüntüleri:
+
+# GPT-3.5 Turbo
+
+1- Karşılama:
+
+![image](https://github.com/user-attachments/assets/ed658e66-e116-468d-9a2e-bacef1c3e589)
+
+2- Çıkış
+
+![image](https://github.com/user-attachments/assets/a3b61a99-3b49-4155-8183-381079508fd5)
+
+3- Kitap Soruları
+
+![image](https://github.com/user-attachments/assets/60e613f6-9ae2-47fc-86d8-98fb871e7d75)
+
+![image](https://github.com/user-attachments/assets/a62d2305-a11d-4f25-a591-2d1b9c710b3b)
+
+# Phi-3-mini-4k-instruct
+
+1- Karşılama:
+
+![image](https://github.com/user-attachments/assets/e2e10444-a22b-405c-b91f-8023ec2aa945)
+
+
+2- Çıkış
+
+ ![image](https://github.com/user-attachments/assets/e4721212-33fd-43d5-8f32-0b8944e86b1d)
+
+
+3- Kitap Soruları
+
+![image](https://github.com/user-attachments/assets/3715326d-d0aa-422c-8bbe-a5946d4b9594)
+
+![image](https://github.com/user-attachments/assets/84eaf109-2896-49b8-a2fa-641e9f5cbade)
+
+
+
+
 
 
