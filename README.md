@@ -108,9 +108,9 @@ Microsoft OS LLM (Phi-3 Mini) ise açık kaynaklı olmasının avantajıyla hız
 
 ![image](https://github.com/user-attachments/assets/84eaf109-2896-49b8-a2fa-641e9f5cbade)
 
+# Karşılaştırma
 
-
-
+![Ekran Resmi 2025-06-10 01 33 10](https://github.com/user-attachments/assets/85131135-c236-4ab5-8b0c-68b6aeaab4c5)
 
 
 
