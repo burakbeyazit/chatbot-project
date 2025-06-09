@@ -8,6 +8,7 @@ Kendi kitap verisetinizi ve intent (niyet) tanımlarınızı kullanarak,
 - Kitap önerileri yapabilir ya da kitap hakkında bilgi verebilir  
 - GPT-3.5-Turbo (OpenAI) ile açık kaynak Microsoft Phi-3-mini-4k-instruct (HuggingFace) sonuçlarını karşılaştırabilir.
 - Modellerin doğruluk, precision, recall ve F1 skorlarını ölçebilirsiniz
+- Colab linki : https://colab.research.google.com/drive/14xpiqvpRqtqy3gNa7QKyFrpab3KzIxtW?usp=sharing
 
 ## Özellikler
 
