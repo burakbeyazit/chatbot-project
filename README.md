@@ -11,7 +11,7 @@ Kendi kitap verisetinizi ve intent (niyet) tanımlarınızı kullanarak,
 
 ## Özellikler
 
-- Veri seti: https://www.kaggle.com/datasets/abdallahwagih/books-dataset  data.csv ve intents.json üzerinden
+- Veri seti: https://www.kaggle.com/datasets/abdallahwagih/books-dataset  data.csv ve intents.json üzerinden çalışılmıştır
 - **İki farklı model:** GPT-3.5-Turbo ve HuggingFace (ör. Phi-3-mini-4k-instruct)
 - **Kitap arama ve bilgi getirme:** Fuzzy search desteği ile
 - **Gradio tabanlı arayüz:** Web’den kolayca demo & değerlendirme
